@@ -1,1 +1,1390 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"payment"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"col-",
+				"col-md-4"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"so",
+				"somehash"
+			],
+			[
+				"do",
+				"downcase"
+			],
+			[
+				"di",
+				"dial_book"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"user_table"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"reve",
+				"reverse"
+			],
+			[
+				"lib_",
+				"libdlp_handle"
+			],
+			[
+				"thta",
+				"theta"
+			],
+			[
+				"The",
+				"Theta2"
+			],
+			[
+				"T",
+				"Theta1"
+			],
+			[
+				"g",
+				"g3"
+			],
+			[
+				"back",
+				"backpropagation"
+			],
+			[
+				"si",
+				"sigmoid"
+			],
+			[
+				"Th",
+				"Theta2"
+			],
+			[
+				"all",
+				"all_theta"
+			],
+			[
+				"N",
+				"Ngrad"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"pri",
+				"priv_key"
+			],
+			[
+				"app",
+				"appId"
+			],
+			[
+				"Tx",
+				"TxHandler"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"fcount",
+				"PgForeachCategoryLeakCount"
+			],
+			[
+				"le",
+				"leak_count"
+			],
+			[
+				"p",
+				"p_canvas"
+			],
+			[
+				"fdd",
+				"fddboot_test"
+			],
+			[
+				"ex",
+				"expected_len"
+			],
+			[
+				"pin",
+				"pin_irq"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"LD",
+				"LD_LIBRARY_PATH"
+			],
+			[
+				"RO",
+				"ROOTFS_SIZE_MB"
+			],
+			[
+				"Foe",
+				"FoedusMethods"
+			],
+			[
+				"foe",
+				"foedus"
+			],
+			[
+				"WAR",
+				"KERN_WARNING"
+			],
+			[
+				"module",
+				"module_printk"
+			],
+			[
+				"get",
+				"getCRL"
+			],
+			[
+				"certi",
+				"certificate"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"seri",
+				"serialNumberBuffer"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"private",
+				"privateKeyPem"
+			],
+			[
+				"re",
+				"reason"
+			],
+			[
+				"priva",
+				"privateKeyPem"
+			],
+			[
+				"certificate",
+				"certificatePem"
+			],
+			[
+				"Da",
+				"DatablinkX509Certificate"
+			],
+			[
+				"c",
+				"classpath"
+			],
+			[
+				"pe",
+				"pemString"
+			],
+			[
+				"th",
+				"throws"
+			],
+			[
+				"public",
+				"publicKeyBase64"
+			],
+			[
+				"_",
+				"_crypt"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"cam",
+				"cam_list"
+			],
+			[
+				"I",
+				"IDLE"
+			],
+			[
+				"Sta",
+				"State"
+			],
+			[
+				"prof",
+				"prof_usb"
+			],
+			[
+				"HO",
+				"HOST_NOT_FOUND_IN_RACK_MESSAGE"
+			],
+			[
+				"S",
+				"Status"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"PROXY_ALREADY_",
+				"PROXY_ALREADY_HAS_A_RACK_MESSAGE"
+			],
+			[
+				"Fa",
+				"False"
+			],
+			[
+				"check",
+				"check_xbar"
+			],
+			[
+				"sho",
+				"should_remove"
+			],
+			[
+				"camera_by",
+				"camera_by_id"
+			],
+			[
+				"camera_by_",
+				"camera_by_sink"
+			],
+			[
+				"port",
+				"port_id"
+			],
+			[
+				"camer",
+				"camera_id"
+			],
+			[
+				"por",
+				"port_id"
+			],
+			[
+				"ra",
+				"rack_name"
+			],
+			[
+				"rack",
+				"rack_status"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"task",
+				"task_progress"
+			],
+			[
+				"finished",
+				"finished"
+			],
+			[
+				"up",
+				"update_task_progress"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"rack_stat",
+				"rack_status"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"log",
+				"log_file"
+			],
+			[
+				"tas",
+				"task_detail"
+			],
+			[
+				"ta",
+				"task_type"
+			],
+			[
+				"sle",
+				"sleep"
+			],
+			[
+				"No",
+				"NotInstalled"
+			],
+			[
+				"Not",
+				"NotInstalled"
+			],
+			[
+				"proxy",
+				"proxy_status"
+			],
+			[
+				"FAIL",
+				"FAILED"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"va",
+				"vaproxy_status_list"
+			],
+			[
+				"pro",
+				"proxy_status"
+			],
+			[
+				"Ra",
+				"RackStatus"
+			],
+			[
+				"fin",
+				"find_xbars"
+			],
+			[
+				"add",
+				"add_camera"
+			],
+			[
+				"va_pry",
+				"va_proxy_list"
+			],
+			[
+				"serial",
+				"Serial"
+			],
+			[
+				"conn",
+				"connect"
+			],
+			[
+				"ControllerMode_Sink_Co",
+				"ControllerMode_Sink_ControllerMode"
+			],
+			[
+				"cont",
+				"controllermode"
+			],
+			[
+				"run",
+				"runcmode"
+			],
+			[
+				"vapr",
+				"vaproxy_cams"
+			],
+			[
+				"Va",
+				"VaProxyStatusString"
+			],
+			[
+				"Pro",
+				"ProxyStatusString"
+			],
+			[
+				"H",
+				"HostStatusStrings"
+			],
+			[
+				"net",
+				"netman_url"
+			],
+			[
+				"came",
+				"camera_string"
+			],
+			[
+				"ver",
+				"version_string"
+			],
+			[
+				"RE",
+				"RELEASE_TAG"
+			],
+			[
+				"install",
+				"install_path"
+			],
+			[
+				"install_",
+				"install_line"
+			],
+			[
+				"instal",
+				"install_line"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"sl",
+				"self"
+			],
+			[
+				"versi",
+				"version_name"
+			],
+			[
+				"fi",
+				"firmware"
+			],
+			[
+				"top",
+				"toplevel"
+			],
+			[
+				"comm",
+				"command_log"
+			],
+			[
+				"comma",
+				"command"
+			],
+			[
+				"command",
+				"command_log"
+			],
+			[
+				"be",
+				"begidx"
+			],
+			[
+				"ne",
+				"network_manager"
+			],
+			[
+				"SSH",
+				"SSH_HOME"
+			],
+			[
+				"vapro",
+				"vaproxies"
+			],
+			[
+				"int",
+				"install_line"
+			],
+			[
+				"ins",
+				"install_path"
+			],
+			[
+				"in",
+				"install_server"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 183,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 744,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/custom.css.scss",
+			"settings":
+			{
+				"buffer_size": 1485,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 2200,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/initializers/stripe.rb",
+			"settings":
+			{
+				"buffer_size": 189,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/payment.rb",
+			"settings":
+			{
+				"buffer_size": 598,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<h1><%= t('.sign_up') %></h1>\n\n<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>\n  <%= bootstrap_devise_error_messages! %>\n\n  <div class=\"form-group\">\n    <%= f.label :email %>\n    <%= f.email_field :email, autofocus: true, autocomplete: 'email', class: 'form-control' %>\n  </div>\n\n  <div class=\"form-group\">\n    <%= f.label :password %>\n    <%= f.password_field :password, autocomplete: 'current-password', class: 'form-control' %>\n\n    <% if @minimum_password_length %>\n      <small class=\"form-text text-muted\"><%= t('devise.shared.minimum_password_length', count: @minimum_password_length) %></small>\n    <% end %>\n  </div>\n\n  <div class=\"form-group\">\n    <%= f.label :password_confirmation %>\n    <%= f.password_field :password_confirmation, autocomplete: 'current-password', class: 'form-control' %>\n  </div>\n\n\n<%= fields_for( :payment ) do |p| %>\n<div class=\"row col-md-12\">\n<div class=\"form-group col-md-4 no-left-padding\">\n<%= p.label :card_number, \"Card Number\", data: { stripe: 'label'} %>\n<%= p.text_field :card_number, class: \"form-control\", required: true, data: { stripe: 'number'} %>\n</div>\n<div class=\"form-group col-md-2\">\n<%= p.label :card_cvv, \"Card CVV\", data: { stripe: 'label'} %>\n<%= p.text_field :card_cvv, class: \"form-control\", required: true, data: { stripe: 'cvv'} %>\n</div>\n<div class=\"form-group col-md-6\">\n<div class=\"col-md-12\">\n<%= p.label :card_expires, \"Card Expires\", data: { stripe: 'label'} %>\n</div>\n<div class=\"col-md-3\">\n<%= p.select :card_expires_month, options_for_select(Payment.month_options),\n{ include_blank: 'Month' },\n\"data-stripe\" => \"exp-month\",\nclass: \"form-control\", required: true %>\n</div>\n<div class=\"col-md-3\">\n<%= p.select :card_expires_year, options_for_select(Payment.year_options.push),\n{ include_blank: 'Year' },\nclass: \"form-control\",\ndata: { stripe: \"exp-year\" }, required: true %>\n</div>\n</div>\n\n\n\n\n  <div class=\"form-group\">\n    <%= f.submit t('.sign_up'), class: 'btn btn-primary' %>\n  </div>\n<% end %>\n\n<%= render 'devise/shared/links' %>\n",
+			"file": "app/views/devise/registrations/new.html.erb",
+			"file_size": 1000,
+			"file_write_time": 132252251412092349,
+			"settings":
+			{
+				"buffer_size": 2049,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 2605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/welcome/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "gitg",
+		"selected_items":
+		[
+			[
+				"gitg",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/flus/Rails/photo-app",
+		"/home/flus/Rails/photo-app/app",
+		"/home/flus/Rails/photo-app/app/views",
+		"/home/flus/Rails/photo-app/app/views/devise",
+		"/home/flus/Rails/photo-app/app/views/devise/registrations",
+		"/home/flus/Rails/photo-app/app/views/layouts",
+		"/home/flus/Rails/photo-app/app/views/welcome",
+		"/home/flus/Rails/photo-app/config",
+		"/home/flus/Rails/photo-app/config/environments",
+		"/home/flus/Rails/photo-app/config/initializers",
+		"/home/flus/Rails/photo-app/db",
+		"/home/flus/Rails/photo-app/db/migrate"
+	],
+	"file_history":
+	[
+		"/home/flus/Rails/photo-app/app/views/layouts/application.html.erb",
+		"/home/flus/Rails/photo-app/app/models/user.rb",
+		"/home/flus/Rails/photo-app/app/controllers/welcome_controller.rb",
+		"/home/flus/Rails/photo-app/app/assets/javascripts/application.js",
+		"/home/flus/Rails/photo-app/app/assets/config/manifest.js",
+		"/home/flus/Rails/photo-app/config/environments/development.rb",
+		"/home/flus/Rails/photo-app/app/views/welcome/index.html.erb",
+		"/home/flus/Rails/photo-app/db/migrate/20200203172539_devise_create_users.rb",
+		"/home/flus/Rails/photo-app/app/controllers/application_controller.rb",
+		"/home/flus/Rails/photo-app/Gemfile",
+		"/home/flus/Rails/finance-tracker/config/credentials.yml.enc",
+		"/Users/flus/Projetos/Rails/playground.rb",
+		"/Users/flus/Projetos/Rails/main.rb",
+		"/Users/flus/Projetos/Rails/student.rb",
+		"/Users/flus/Projetos/Rails/crude.rb",
+		"/Users/flus/Projetos/Tizen/strace.txt",
+		"/Users/flus/Projetos/Tizen/volume/launchpad/src/launchpad.c",
+		"/Users/flus/Projetos/Tizen/volume/launchpad/src/launchpad_loader.c",
+		"/Users/flus/Projetos/Tizen/volume/chromium-efl/packaging/chromium-efl.spec",
+		"/Users/flus/Projetos/Tizen/volume/launchpad/src/launchpad_lib.c",
+		"/Users/flus/Projetos/Tizen/volume/launchpad/src/launchpad_signal.c",
+		"/Users/flus/Projetos/Tizen/volume/launchpad/src/launchpad_common.c",
+		"/Users/flus/network.sh",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex8/ex8/cofiCostFunc.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex8/ex8/selectThreshold.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex8/ex8/estimateGaussian.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex8/ex8/normalizeRatings.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/recoverData.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/projectData.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/pca.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/findClosestCentroids.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/computeCentroids.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex7/ex7/kMeansInitCentroids.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/linearRegCostFunction.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/validationCurve.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/ex5.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/polyFeatures.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/learningCurve.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/trainLinearReg.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex5/ex5/fmincg.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex4/ex4/nnCostFunction.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex4/ex4/sigmoidGradient.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex4/ex4/randInitializeWeights.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex4/ex4/sigmoid.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/fmincg.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/ex3.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/lrCostFunction.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/oneVsAll.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/predictOneVsAll.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/predict.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/predict.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex3/ex3/displayData.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/ex2.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/sigmoid.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/costFunction.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/costFunction.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/ex2_reg.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/costFunctionReg.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/mapFeature.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/plotDecisionBoundary.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/ex1_multi.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/normalEqn.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/computeCost.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/ex1.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/gradientDescent.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/plotData.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex2/ex2/ex2data1.txt",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1.zip",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/gradientDescentMulti.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/computeCostMulti.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/featureNormalize.m",
+		"/Users/flus/Projetos/MachineLearning/machine-learning-ex1/ex1/warmUpExercise.m",
+		"/Users/flus/Projetos/MachineLearning/data1.dat",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/res/usr/bin/privacy_guard_db.sql",
+		"/Users/flus/Projetos/Tizen/volume/chromium-efl/net/http/http_stream_parser.cc",
+		"/Users/flus/Projetos/MachineLearning/hello.txt",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/src/privacy_guard_dlp.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/src/DlpPacketParser.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/common/src/DlpUtils.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/common/inc/DlpUtils.h",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/resource/csdk/stack/src/ocstack.c",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/tools/tizen/iotivity.spec",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/gbsbuild.sh",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/auto_build.py",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/tools/tizen/.gbs.conf",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/.gbs.conf",
+		"/Users/flus/Projetos/Tizen/volume/privacy-setting/CONTRIBUTORS",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/CONTRIBUTORS",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/test/tc-regex.cpp",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/resource/csdk/stack/src/ocserverrequest.c",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/resource/csdk/resource-directory/src/rd_server.c",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/resource/csdk/stack/src/ocstack.c",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/resource/csdk/stack/src/ocserverrequest.c",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/resource/csdk/connectivity/api/cacommon.h",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/resource/examples/simpleserver.cpp",
+		"/Users/flus/Projetos/Electrum/electrum/lib/wallet.py",
+		"/Users/flus/Projetos/Electrum/electrum/lib/keystore.py",
+		"/Users/flus/Projetos/Electrum/electrum/lib/bitcoin.py",
+		"/Users/flus/Projetos/Electrum/electrum/lib/base_wizard.py",
+		"/Users/flus/Projetos/Electrum/electrum/gui/qt/installwizard.py",
+		"/Users/flus/Projetos/Electrum/electrum/gui/kivy/main_window.py",
+		"/Users/flus/Projetos/Electrum/electrum/gui/qt/main_window.py",
+		"/Users/flus/Projetos/Electrum/electrum/electrum",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/out/linux/x86_64/release/include/resource/octypes.h",
+		"/Users/flus/Projetos/Tizen/volume/iotivity-1.2.1/resource/csdk/stack/src/ocobserve.c",
+		"/Users/flus/Projetos/KNoT/awk.sh",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/src/service/DlpPrivacyInfoData.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/src/service/PrivacyInfoService.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/inc/DlpRuleChangeNotification.h",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/src/DlpRuleChangeNotification.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/src/PrivacyGuardDb.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/common/inc/PrivacyGuardTypes.h",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/src/PrivacyGuardDaemon.cpp",
+		"/Users/flus/Projetos/Tizen/volume/curl/extensions/Makefile.am",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/inc/PrivacyGuardClient.h",
+		"/Users/flus/Projetos/Tizen/volume/iotivity/packaging/iotivity.spec",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/src/PrivacyGuardClient.cpp",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/packaging/privacy-guard.spec",
+		"/Users/flus/Projetos/Tizen/volume/curl/extensions/tizen_dlp.c",
+		"/Users/flus/Projetos/Tizen/volume/curl/lib/extensions/curl_extensions.c",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/CMakeLists.txt",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/pkgmgr_plugin/CMakeLists.txt",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/common/inc/SocketConnection.h",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/client/src/DlpLogsManager.cpp",
+		"/Users/flus/Projetos/Tizen/volume/curl/packaging/curl.spec",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/CMakeLists.txt",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/include/privacy_guard_client_types.h",
+		"/Users/flus/Projetos/Tizen/volume/privacy-guard/server/inc/PrivacyGuardDb.h"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  publishable_key: ENV['STRIPE_TEST_PUBLISHABLE_KEY'],\n",
+			"action_mailer",
+			"hirb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/application.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1485,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1485,
+								1485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Gemfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1089,
+								1089
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/initializers/stripe.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/models/payment.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/devise/registrations/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								856,
+								1905
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2389,
+								2389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/views/welcome/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1359,
+								1359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "photo.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"iotivity/resource/csdk/stack/src/ocstack.c"
+			],
+			[
+				"ocstac.c",
+				"iotivity/resource/csdk/stack/src/ocstack.c"
+			],
+			[
+				"ocserverrequest",
+				"iotivity/resource/csdk/stack/src/ocserverrequest.c"
+			],
+			[
+				"ocstack",
+				"iotivity/resource/csdk/stack/src/ocstack.c"
+			],
+			[
+				"rd_server.c",
+				"iotivity/resource/csdk/resource-directory/src/rd_server.c"
+			],
+			[
+				"simpleserver.cpp",
+				"iotivity-1.2.1/resource/examples/simpleserver.cpp"
+			],
+			[
+				"ocserver",
+				"iotivity-1.2.1/resource/csdk/stack/src/ocserverrequest.c"
+			],
+			[
+				"ocobserve.c",
+				"iotivity-1.2.1/resource/csdk/stack/src/ocobserve.c"
+			],
+			[
+				"thot_k",
+				"Amaya/Amaya/thotlib/internals/h/thot_key.h"
+			],
+			[
+				"dcmemo",
+				"wxWidgets-3.0.2/src/dfb/dcmemory.cpp"
+			],
+			[
+				"png",
+				"Amaya/thotlib/image/pnghandler.c"
+			],
+			[
+				"amayastyletoolpanel",
+				"Amaya/amaya/wxdialog/StyleListToolPanel.cpp"
+			],
+			[
+				"tcsi_r",
+				"buildroot/output/build/trousers-0.3.13/src/tcs/tcsi_random.c"
+			],
+			[
+				"block",
+				"qemu/blockdev.c"
+			],
+			[
+				"scsi",
+				"qemu/hw/scsi/scsi-disk.c"
+			],
+			[
+				"dev-s",
+				"qemu/hw/usb/dev-storage.c"
+			],
+			[
+				"virtio-blk",
+				"qemu/hw/block/virtio-blk.c"
+			],
+			[
+				"dl.c",
+				"grub2/grub-core/kern/dl.c"
+			],
+			[
+				"execute",
+				"grub2/grub-core/script/execute.c"
+			],
+			[
+				"versatile-",
+				"buildroot-2016.08.1-arm/board/qemu/arm-versatile/versatile-pb.dts"
+			],
+			[
+				"gpio",
+				"qemu/hw/gpio/gpio_key.c"
+			],
+			[
+				"tpm.c",
+				"qemu/backends/tpm.c"
+			],
+			[
+				"tpm_back",
+				"qemu/include/sysemu/tpm_backend_int.h"
+			],
+			[
+				"tpm_cmd_handler.c",
+				"HPTPM/tpm-emulator/tpm/tpm_cmd_handler.c"
+			],
+			[
+				"kvspro",
+				"FKIS/store_vo/kvs/core/kvsprocessor.py"
+			],
+			[
+				"vagra",
+				"FKIS/Vagrantfile"
+			],
+			[
+				"logger_im",
+				"FKIS/foedus_code/foedus-core/src/foedus/log/logger_impl.cpp"
+			],
+			[
+				"foedusentrypoint",
+				"FKIS/store_vo/foedus/include/foedus_entry_point.hpp"
+			],
+			[
+				"foed",
+				"FKIS/store_vo/PoC_foedus/src/foedusmodule.cpp"
+			],
+			[
+				"service-a",
+				"KNoT/knot-gateway-buildroot/package/knot-service-app/knot-service-app.mk"
+			],
+			[
+				"knot",
+				"KNoT/knot-gateway-buildroot/package/knot-hal-driver/knot-hal-driver.mk"
+			],
+			[
+				"foedus",
+				"FKIS/store_vo/PoC_foedus/src/foedusmodule.cpp"
+			],
+			[
+				"knot-",
+				"KNoT/knot-gateway-buildroot/package/knot-hal-driver/knot-hal-driver.mk"
+			],
+			[
+				"test_hash_basic.cpp",
+				"FKIS/Setup_FOEDUS/vagrant_project/foedus_code/tests-core/src/foedus/storage/hash/test_hash_basic.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projetos/Amaya/untitled.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "CommandError_GeneralError",
+		"selected_items":
+		[
+			[
+				"CommandError_GeneralError",
+				"CommandError_GeneralError"
+			],
+			[
+				"PS8407E_SetRetimer",
+				"PS8407E_SetRetimer"
+			]
+		],
+		"width": 1061.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
