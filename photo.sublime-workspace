@@ -576,19 +576,17 @@
 			"file": "app/models/payment.rb",
 			"settings":
 			{
-				"buffer_size": 598,
+				"buffer_size": 556,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "<h1><%= t('.sign_up') %></h1>\n\n<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>\n  <%= bootstrap_devise_error_messages! %>\n\n  <div class=\"form-group\">\n    <%= f.label :email %>\n    <%= f.email_field :email, autofocus: true, autocomplete: 'email', class: 'form-control' %>\n  </div>\n\n  <div class=\"form-group\">\n    <%= f.label :password %>\n    <%= f.password_field :password, autocomplete: 'current-password', class: 'form-control' %>\n\n    <% if @minimum_password_length %>\n      <small class=\"form-text text-muted\"><%= t('devise.shared.minimum_password_length', count: @minimum_password_length) %></small>\n    <% end %>\n  </div>\n\n  <div class=\"form-group\">\n    <%= f.label :password_confirmation %>\n    <%= f.password_field :password_confirmation, autocomplete: 'current-password', class: 'form-control' %>\n  </div>\n\n\n<%= fields_for( :payment ) do |p| %>\n<div class=\"row col-md-12\">\n<div class=\"form-group col-md-4 no-left-padding\">\n<%= p.label :card_number, \"Card Number\", data: { stripe: 'label'} %>\n<%= p.text_field :card_number, class: \"form-control\", required: true, data: { stripe: 'number'} %>\n</div>\n<div class=\"form-group col-md-2\">\n<%= p.label :card_cvv, \"Card CVV\", data: { stripe: 'label'} %>\n<%= p.text_field :card_cvv, class: \"form-control\", required: true, data: { stripe: 'cvv'} %>\n</div>\n<div class=\"form-group col-md-6\">\n<div class=\"col-md-12\">\n<%= p.label :card_expires, \"Card Expires\", data: { stripe: 'label'} %>\n</div>\n<div class=\"col-md-3\">\n<%= p.select :card_expires_month, options_for_select(Payment.month_options),\n{ include_blank: 'Month' },\n\"data-stripe\" => \"exp-month\",\nclass: \"form-control\", required: true %>\n</div>\n<div class=\"col-md-3\">\n<%= p.select :card_expires_year, options_for_select(Payment.year_options.push),\n{ include_blank: 'Year' },\nclass: \"form-control\",\ndata: { stripe: \"exp-year\" }, required: true %>\n</div>\n</div>\n\n\n\n\n  <div class=\"form-group\">\n    <%= f.submit t('.sign_up'), class: 'btn btn-primary' %>\n  </div>\n<% end %>\n\n<%= render 'devise/shared/links' %>\n",
 			"file": "app/views/devise/registrations/new.html.erb",
-			"file_size": 1000,
-			"file_write_time": 132252251412092349,
 			"settings":
 			{
-				"buffer_size": 2049,
+				"buffer_size": 2490,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -835,7 +833,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -1014,15 +1012,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 598,
+						"buffer_size": 556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								406,
-								406
+								254,
+								254
 							]
 						],
 						"settings":
@@ -1033,7 +1031,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -1042,15 +1040,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2049,
+						"buffer_size": 2490,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								856,
-								1905
+								2336,
+								2336
 							]
 						],
 						"settings":
@@ -1060,10 +1058,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 272.0,
+						"translation.y": 119.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
